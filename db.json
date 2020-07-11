@@ -1,0 +1,38 @@
+{
+
+
+
+"courses" : [
+
+      
+    {
+        "id" : 1,   
+        "title" : "React desde cero",
+        "img" : "https:edteam-media.s3.amazonaws.com/courses/original/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
+        "price" : "50",
+        "professor" : "Alex Gomez"
+      },
+      {
+       "id" : 2,   
+          "title" : "Laravel desde cero",
+        "img" : "https:edteam-media.s3.amazonaws.com/courses/original/4af57900-d787-4256-8eb7-d3984602e312.jpg",
+        "price" : "82",
+        "professor" : "Alvaro Medina"
+      },
+      {
+       "id" : 3,              
+        "title" : "JavaScript desde cero",
+        "img" : "https:edteam-media.s3.amazonaws.com/courses/original/87ce607a-520c-48c5-af89-6aac7cb85d6d.jpg",
+        "price" : "50",
+        "professor" : "Alejandro Rodriguez"
+      },
+      {
+          "id" : 4,              
+           "title" : "Vue desde cero",
+           "img" : "https://edteam-media.s3.amazonaws.com/courses/original/b393cce0-3ec8-4c61-877d-92e2e04f9120.png",
+           "price" : "60",
+           "professor" : "Alvaro Medina"
+         }    
+ ]
+
+}
